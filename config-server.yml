@@ -17,3 +17,5 @@ eureka:
     fetchRegistry: true
     service-url:
       defaultZone: http://localhost:7001/eureka    # 单机版
+config:
+  info: "6546s54da"
